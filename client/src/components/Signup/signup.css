@@ -1,0 +1,21 @@
+.page_signup {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.75em;
+}
+
+.cover_signup {
+    background-color: white;
+    width: 40em;
+    height: 40em;
+    position:relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(156, 156, 156);
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-evenly;
+}
